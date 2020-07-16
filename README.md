@@ -105,5 +105,21 @@ $ git describe
 
 ```sh
 git tag -a 5.0.0-beta.XY -m 5.0.0-beta.XY
-yarn release
 ```
+put the new Version in package.json https://github.com/allthings/elements/blob/typescripted/package.json#L3
+and then  
+
+``` sh
+yarn release
+``` 
+
+or just do 
+
+``` sh
+$ yarn version
+$ yarn release
+```
+
+
+
+
