@@ -1,6 +1,6 @@
 {
   "name": "@allthings/elements",
-  "version": "5.0.0-beta.73",
+  "version": "5.0.0-beta.74",
   "main": "dist/index.js",
   "module": "dist/es/index.js",
   "types": "dist/index.d.ts",
