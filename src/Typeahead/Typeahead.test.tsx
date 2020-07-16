@@ -11,8 +11,6 @@ const CLEAR_SELECTION = 'div[onClick]'
 
 const INPUT = (instance: string | number) => `input#downshift-${instance}-input`
 
-const INPUT_HINT = 'input[name="hint"]'
-
 const SELECTED_ITEM_ICON = 'strong'
 
 const ITEMS = [
@@ -35,7 +33,19 @@ const PLACEHOLDER = "Select Nick's Pokemon"
 const DOWNSHIFT_ITEM = (instance: string | number, index: string | number) =>
   `div#downshift-${instance}-item-${index}`
 
+let INPUT_HINT = 'input[name="hint-demo"]'
+
 describe('Test the typeahead component', () => {
+  const RealDateNow = Date.now
+
+  Date.now = () => 1594731727942
+
+  INPUT_HINT = `input[name="hint-${Date.now()}"]`
+
+  afterAll(() => {
+    Date.now = RealDateNow
+  })
+
   it('should be a simple static one - in depth testing of the core behavior', () => {
     const wrapper = mount(<Typeahead items={ITEMS} placeholder={PLACEHOLDER} />)
     const clickAndPress = (value: string | number, last?: number) => {

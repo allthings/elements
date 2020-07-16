@@ -385,7 +385,7 @@ export default class Typeahead extends PureComponent<MyProps, IState> {
                   <Absolute top={0} left={0} {...css({ width: '100%' })}>
                     <Input
                       autoComplete="off"
-                      name="hint"
+                      name={`hint-${Date.now()}`}
                       tabIndex={-1}
                       value={hintValue}
                       hasRightIcon={!!selectedItem && !clearOnSelect}

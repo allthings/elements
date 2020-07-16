@@ -219,7 +219,7 @@ exports[`Test the typeahead component Test typeahead component with jsx labels s
                 autoComplete="off"
                 data-css-4=""
                 hasRightIcon={false}
-                name="hint"
+                name="hint-1594731727942"
                 tabIndex={-1}
                 value=""
               >
@@ -245,7 +245,7 @@ exports[`Test the typeahead component Test typeahead component with jsx labels s
                       autoComplete="off"
                       data-css-4=""
                       data-css-9=""
-                      name="hint"
+                      name="hint-1594731727942"
                       onChange={[Function]}
                       required={false}
                       tabIndex={-1}
@@ -620,7 +620,7 @@ exports[`Test the typeahead component should be a simple static one - in depth t
                 autoComplete="off"
                 data-css-4=""
                 hasRightIcon={false}
-                name="hint"
+                name="hint-1594731727942"
                 tabIndex={-1}
                 value=""
               >
@@ -646,7 +646,7 @@ exports[`Test the typeahead component should be a simple static one - in depth t
                       autoComplete="off"
                       data-css-4=""
                       data-css-9=""
-                      name="hint"
+                      name="hint-1594731727942"
                       onChange={[Function]}
                       required={false}
                       tabIndex={-1}
@@ -1110,7 +1110,7 @@ exports[`Test the typeahead component should be a simple static one which auto o
                 autoComplete="off"
                 data-css-3=""
                 hasRightIcon={false}
-                name="hint"
+                name="hint-1594731727942"
                 tabIndex={-1}
                 value=""
               >
@@ -1136,7 +1136,7 @@ exports[`Test the typeahead component should be a simple static one which auto o
                       autoComplete="off"
                       data-css-3=""
                       data-css-7=""
-                      name="hint"
+                      name="hint-1594731727942"
                       onChange={[Function]}
                       required={false}
                       tabIndex={-1}
@@ -1979,7 +1979,7 @@ exports[`Test the typeahead component should render differently when loading 1`]
                 autoComplete="off"
                 data-css-4=""
                 hasRightIcon={false}
-                name="hint"
+                name="hint-1594731727942"
                 tabIndex={-1}
                 value=""
               >
@@ -2005,7 +2005,7 @@ exports[`Test the typeahead component should render differently when loading 1`]
                       autoComplete="off"
                       data-css-4=""
                       data-css-9=""
-                      name="hint"
+                      name="hint-1594731727942"
                       onChange={[Function]}
                       required={false}
                       tabIndex={-1}
@@ -2382,7 +2382,7 @@ exports[`Test the typeahead component should render differently when loading 2`]
                 autoComplete="off"
                 data-css-4=""
                 hasRightIcon={false}
-                name="hint"
+                name="hint-1594731727942"
                 tabIndex={-1}
                 value=""
               >
@@ -2408,7 +2408,7 @@ exports[`Test the typeahead component should render differently when loading 2`]
                       autoComplete="off"
                       data-css-4=""
                       data-css-9=""
-                      name="hint"
+                      name="hint-1594731727942"
                       onChange={[Function]}
                       required={false}
                       tabIndex={-1}
@@ -2876,7 +2876,7 @@ exports[`Test the typeahead component should use the defaultValue property (unco
                 autoComplete="off"
                 data-css-4=""
                 hasRightIcon={true}
-                name="hint"
+                name="hint-1594731727942"
                 tabIndex={-1}
                 value="Abomasnow"
               >
@@ -2902,7 +2902,7 @@ exports[`Test the typeahead component should use the defaultValue property (unco
                       autoComplete="off"
                       data-css-4=""
                       data-css-16=""
-                      name="hint"
+                      name="hint-1594731727942"
                       onChange={[Function]}
                       required={false}
                       tabIndex={-1}
@@ -3400,7 +3400,7 @@ exports[`Test the typeahead component should use the limit property 1`] = `
                 autoComplete="off"
                 data-css-3=""
                 hasRightIcon={false}
-                name="hint"
+                name="hint-1594731727942"
                 tabIndex={-1}
                 value=""
               >
@@ -3426,7 +3426,7 @@ exports[`Test the typeahead component should use the limit property 1`] = `
                       autoComplete="off"
                       data-css-3=""
                       data-css-7=""
-                      name="hint"
+                      name="hint-1594731727942"
                       onChange={[Function]}
                       required={false}
                       tabIndex={-1}
@@ -4015,7 +4015,7 @@ exports[`Test the typeahead component should use the top placement property 1`] 
                 autoComplete="off"
                 data-css-3=""
                 hasRightIcon={false}
-                name="hint"
+                name="hint-1594731727942"
                 tabIndex={-1}
                 value=""
               >
@@ -4041,7 +4041,7 @@ exports[`Test the typeahead component should use the top placement property 1`] 
                       autoComplete="off"
                       data-css-3=""
                       data-css-7=""
-                      name="hint"
+                      name="hint-1594731727942"
                       onChange={[Function]}
                       required={false}
                       tabIndex={-1}
