@@ -96,7 +96,7 @@
     "lint-staged": "9.5.0",
     "markdown-extract": "1.0.2",
     "path": "0.12.7",
-    "prettier": "1.19.1",
+    "prettier": "2.2.1",
     "pretty-quick": "2.0.2",
     "react": "16.14.0",
     "react-docgen": "4.1.1",
