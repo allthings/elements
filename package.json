@@ -104,7 +104,7 @@
     "react-dom": "16.13.1",
     "react-test-renderer": "16.13.1",
     "rimraf": "3.0.2",
-    "snapshot-diff": "0.7.0",
+    "snapshot-diff": "0.8.1",
     "ts-jest": "25.5.1",
     "tslint": "5.20.1",
     "typescript": "3.9.7"
