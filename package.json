@@ -31,8 +31,8 @@
     "lodash": ">=4.17.19"
   },
   "peerDependencies": {
-    "react": "^16.8",
-    "react-dom": "^16.8"
+    "react": "^16.8 || ^17.0.0",
+    "react-dom": "^16.8 || ^17.0.0"
   },
   "scripts": {
     "preversion": "yarn lint && yarn test",
@@ -83,7 +83,7 @@
     "eslint-plugin-node": "10.0.0",
     "eslint-plugin-promise": "4.3.1",
     "eslint-plugin-react": "7.22.0",
-    "eslint-plugin-react-hooks": "2.5.1",
+    "eslint-plugin-react-hooks": "4.2.0",
     "eslint-plugin-standard": "4.1.0",
     "esm": "3.2.25",
     "fs-extra": "8.1.0",
@@ -98,11 +98,11 @@
     "path": "0.12.7",
     "prettier": "1.19.1",
     "pretty-quick": "2.0.2",
-    "react": "16.14.0",
+    "react": "17.0.1",
     "react-docgen": "4.1.1",
     "react-docgen-typescript": "1.21.0",
-    "react-dom": "16.14.0",
-    "react-test-renderer": "16.14.0",
+    "react-dom": "17.0.1",
+    "react-test-renderer": "17.0.1",
     "rimraf": "3.0.2",
     "snapshot-diff": "0.8.1",
     "ts-jest": "25.5.1",
