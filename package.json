@@ -54,7 +54,7 @@
     "@storybook/addon-actions": "5.3.21",
     "@storybook/addon-links": "5.3.21",
     "@storybook/react": "5.3.21",
-    "@testing-library/react": "9.5.0",
+    "@testing-library/react": "11.2.5",
     "@types/enzyme": "3.10.8",
     "@types/jest": "25.2.3",
     "@types/json2mq": "0.2.0",
