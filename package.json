@@ -10,7 +10,7 @@
   "dependencies": {
     "@allthings/colors": "4.0.1",
     "core-js": "3.8.3",
-    "downshift": "3.4.8",
+    "downshift": "6.1.0",
     "glamor": "2.20.40",
     "json2mq": "0.2.0",
     "kewler": "1.0.8",
