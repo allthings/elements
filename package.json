@@ -93,7 +93,7 @@
     "jest": "25.5.4",
     "jest-fetch-mock": "2.1.2",
     "jest-glamor-react": "4.3.1",
-    "lint-staged": "9.5.0",
+    "lint-staged": "10.5.4",
     "markdown-extract": "1.0.2",
     "path": "0.12.7",
     "prettier": "1.19.1",
